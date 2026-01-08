@@ -156,40 +156,37 @@ The system is evaluated using the following prompts:
 
 
 
-```md
+
 ## 📸 Retrieval Results
 
-### Attribute-specific Query
-**Query:** A person in a bright yellow raincoat  
+### 1.Attribute-specific Query
+**1.Query:** A person in a bright yellow raincoat  
 ![Yellow Raincoat](screenshots/yellow_raincoat.png)
 
 ---
 
-### Contextual Query
+### 2.Contextual Query
 **Query:** Professional business attire inside a modern office  
 ![Formal Office](screenshots/formal_office.png)
 
 ---
 
-### Complex Semantic:
+### 3.Complex Semantic:
 **Query:** Someone wearing a blue shirt sitting on a park bench.
 ![Complex](screenshots/blue_shirt_park_bench.png)
 
 ---
-### Style Inference
+### 4.Style Inference
 **Query:** Casual weekend outfit for a city walk  
 ![Casual City](screenshots/casual_city.png)
 
 ---
 
-### Compositional Query
+### 5.Compositional Query
 **Query:** A red tie and a white shirt in a formal setting  
 ![Red Tie](screenshots/red_tie_white_shirt.png)
-```
 
-📌 GitHub will automatically render the images.
 
----
 
 ## ⚖️ Design Choices & Tradeoffs
 
@@ -264,4 +261,4 @@ GitHub: [https://github.com/antara483](https://github.com/antara483)
 
 
 
-Just tell me 👍
+
