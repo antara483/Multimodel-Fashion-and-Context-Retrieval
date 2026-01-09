@@ -7,6 +7,37 @@ The system understands **clothing attributes, visual appearance, and contextual 
 
 ---
 
+## 📸 Retrieval Results
+
+### 1.Attribute-specific Query
+**1.Query:** A person in a bright yellow raincoat  
+![Yellow Raincoat](screenshots/yellow_raincoat.png)
+
+---
+
+### 2.Contextual Query
+**Query:** Professional business attire inside a modern office  
+![Formal Office](screenshots/formal_office.png)
+
+---
+
+### 3.Complex Semantic:
+**Query:** Someone wearing a blue shirt sitting on a park bench.
+![Complex](screenshots/blue_shirt_park_bench.png)
+
+---
+### 4.Style Inference
+**Query:** Casual weekend outfit for a city walk  
+![Casual City](screenshots/casual_city.png)
+
+---
+
+### 5.Compositional Query
+**Query:** A red tie and a white shirt in a formal setting  
+![Red Tie](screenshots/red_tie_white_shirt.png)
+
+
+
 ## 🧩 Problem Statement
 
 The goal is to build an intelligent search engine that:
@@ -153,40 +184,6 @@ The system is evaluated using the following prompts:
   *“A red tie and a white shirt in a formal setting.”*
 
 ---
-
-
-
-
-## 📸 Retrieval Results
-
-### 1.Attribute-specific Query
-**1.Query:** A person in a bright yellow raincoat  
-![Yellow Raincoat](screenshots/yellow_raincoat.png)
-
----
-
-### 2.Contextual Query
-**Query:** Professional business attire inside a modern office  
-![Formal Office](screenshots/formal_office.png)
-
----
-
-### 3.Complex Semantic:
-**Query:** Someone wearing a blue shirt sitting on a park bench.
-![Complex](screenshots/blue_shirt_park_bench.png)
-
----
-### 4.Style Inference
-**Query:** Casual weekend outfit for a city walk  
-![Casual City](screenshots/casual_city.png)
-
----
-
-### 5.Compositional Query
-**Query:** A red tie and a white shirt in a formal setting  
-![Red Tie](screenshots/red_tie_white_shirt.png)
-
-
 
 ## ⚖️ Design Choices & Tradeoffs
 
